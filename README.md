@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React js , Laravel**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React js, Mysql, ...**
+- 💬 Ask me about **HTML, CSS, JavaScript, React js, Php, Mysql, ...**
 
 - 📫 How to reach me **mohammedelgargati02@gmail.com**
 
