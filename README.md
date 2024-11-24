@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed El Gargati</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
+<img align="center" alt="Coding" width="100%" src="https://db0dce98.rocketcdn.me/wp-content/uploads/2024/02/developpeur-web-datascientest-1024x585.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elgargati&label=Profile%20views&color=0e75b6&style=flat" alt="elgargati" /> </p>
