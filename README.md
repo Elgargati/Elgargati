@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my portfolio website and several other projects**
 
-- 🌱 I’m currently learning **React js , Laravel**
+- 🌱 I’m currently learning **React.js , Laravel**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React js, Php, Mysql, ...**
 
