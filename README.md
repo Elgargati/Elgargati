@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elgargati&label=Profile%20views&color=0e75b6&style=flat" alt="elgargati" /> </p>
 
-- 🔭 I’m currently working on **my portfolio website and several other projects**
+- 🔭 I’m currently working on **My portfolio website and several other projects**
 
 - 🌱 I’m currently learning **React.js , Laravel**
 
