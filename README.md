@@ -37,8 +37,8 @@
 </p>
 
 ### 💁‍♂️ About me
-Je suis un développeur full stack passionné par la création d'applications web modernes et dynamiques. Compétent en HTML, CSS, JavaScript, PHP, MySQL, MongoDB et ReactJS. Toujours motivé pour apprendre, résoudre des problèmes complexes et contribuer à des projets innovants.
-
+I am a full-stack developer passionate about creating modern and dynamic web applications. Skilled in HTML, CSS, JavaScript, PHP, MySQL, MongoDB, and ReactJS. Always motivated to learn, solve complex problems, and contribute to innovative projects.
+<br/>
 
 - 🔭 I’m currently working on **My portfolio website and several other projects**
 
