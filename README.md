@@ -36,9 +36,6 @@
             src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
 
-### 💁‍♂️ About me
-I am a full-stack developer passionate about creating modern and dynamic web applications. Skilled in HTML, CSS, JavaScript, PHP, MySQL, MongoDB, and ReactJS. Always motivated to learn, solve complex problems, and contribute to innovative projects.
-<br/>
 
 - 🔭 I’m currently working on **My portfolio website and several other projects**
 
